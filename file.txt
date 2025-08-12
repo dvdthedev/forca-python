@@ -1,0 +1,7 @@
+cachorro
+gato
+manga
+uva
+bola
+cartola
+macaco

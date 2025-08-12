@@ -1,0 +1,3 @@
+deivid: 800
+carlos: 300
+felipe: 700
