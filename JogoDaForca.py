@@ -55,11 +55,10 @@ while opcao != 3:
         vidas = 5
         palavra = palavra_random()
         array = criar_array_do_palavra(palavra)
-        print(array, palavra)
         score = 0
 
         while vidas > 0:
-            letra = input('Digite uma letra: ')
+            letra = input('Digite uma letra: ').lower()
             if letra in array:
                 print('Você já digitou está letra')
             elif letra not in palavra:

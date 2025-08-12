@@ -1,3 +1,5 @@
 deivid: 800
 carlos: 300
 felipe: 700
+uell: 300
+deivid: 400
